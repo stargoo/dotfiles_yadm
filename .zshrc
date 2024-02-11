@@ -1,6 +1,6 @@
 # If you come from bash you might have to change your $PATH.
 export PATH=$HOME/.local/bin:/usr/local/bin:$PATH:$HOME/go/bin
-export PATH=$PATH:/home/scott/.cargo/bin
+export PATH=$PATH:$HOME/.cargo/bin
 # XDG Setup
 export XDG_DATA_HOME=$HOME/.local/share
 export XDG_CONFIG_HOME=$HOME/.config
