@@ -1,4 +1,5 @@
 # If you come from bash you might have to change your $PATH.
+# 
 export PATH=$HOME/.local/bin:/usr/local/bin:$PATH:$HOME/go/bin
 export PATH=$PATH:$HOME/.cargo/bin
 # XDG Setup
